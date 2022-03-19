@@ -34,8 +34,8 @@ module.exports = () => {
         name: 'jate',
         short_name: 'jate',
         description: 'text editor of coding notes',
-        background_color: '#7eb4e2',
-        theme_color: '#7eb4e2',
+        background_color: '#225ca3',
+        theme_color: '#225ca3',
         start_url: '/',
         publicPath: '/',
         icons: [
