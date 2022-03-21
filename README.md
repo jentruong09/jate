@@ -3,7 +3,7 @@
 <br/>
 
 ## Project Description
-
+A text editor that runs in the browser and will also function offline! Simply install the application and type away. If you lose internet connection, you can still write and it will save locally on your computer. Once you are online, it will sync to the server!
 
 
 <br/>
@@ -20,28 +20,44 @@
 ## Deployment
   
 
-[Repository](https://github.com/jentruong09/socialNetworkAPI)
-
-
-## Usage
-
+[Repository](https://github.com/jentruong09/jate)
 
 <br/>
 
+[Live Deployment](https://infinite-mountain-89064.herokuapp.com/)
+
+<br/>
+
+## Usage
+
+Install all dependencies by typing `npm i` or `npm install` into your terminal. Then type `npm run start:dev` to start the application. If you would like to use the live version, just click the 'Live Deployment' link and start typing!
+
+<br/>
+
+![installed](/assets/web.png)
+
+<br/>
+
+![web](/assets/installed.png)
+
+<br/>
 
 ## Credits
 
 <br/>
 
+All starting code was provided by: Trilogy Education Services, LLC, a 2U, Inc. brand.
+
+
 Technologies Used in this project:
 
 [npm express](https://www.npmjs.com/package/express)
 
-[npm if-env]()
+[npm if-env](https://www.npmjs.com/package/if-env)
 
-[npm code-mirror-themes]()
+[npm code-mirror-themes](https://www.npmjs.com/package/code-mirror-themes)
 
-[npm idb]()
+[npm idb](https://www.npmjs.com/package/idb)
 
 <br/>
 
